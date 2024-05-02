@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App Version</string>
+    <string name="cloudname">Capsyl</string>
+    <string name="copyright">\u00A9 2013&#8211;2024 Synchronoss Technologies</string>
+    <string name="version">v24.5.8-SNAPSHOT</string>
+</resources>
